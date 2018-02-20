@@ -1,0 +1,6 @@
+Person.java
+
+    Készíts egy, a nemek ábrázolásához használt Gender nevu osztályt. Ebben szerepeljen két osztályszintu konstans, amelyek rendre Gender.MALE (férfi) és Gender.FEMALE (no).
+    Készíts Person névvel egy olyan osztályt, amelyben nyilvántartjuk a személyi adatokat. A rögzíteni kívánt adatok: a személy vezeték- és keresztneve (mindketto String), foglalkozása (String), neme (Gender) és születési éve (int).
+    Legyen a Person osztálynak egy olyan statikus metódusa makePerson() névvel, amely ezeket az adatokat paraméterként kapja és összeállít belolük egy Person típusú objektumot. A létrehozás elott azonban ellenorizzük, hogy a születési év 1900 és 2017 közé esik-e. Ha nem, akkor a metódus üres, vagyis null referenciát ad vissza (azaz ilyenkor nem jön létre objektum).
+

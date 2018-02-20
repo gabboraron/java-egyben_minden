@@ -1,0 +1,8 @@
+asda,1
+asda,-5
+asdaa,5
+asdf,80
+asdg,305
+asdg,100
+ccc,405
+asdg,3305

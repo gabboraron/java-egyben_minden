@@ -1,0 +1,12 @@
+Ha
+
+String[][] xs = new String[1][];
+
+akkor:
+xs[0] == null 
+
+---------------------------------------
+
+Melyik NEM igaz?
+ int típusú lokális változó élettartama befejezodik a blokkjából való kilépéskor
+ tömb objektum élettartamát befolyásolja a tömb elemszáma
